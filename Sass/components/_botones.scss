@@ -1,0 +1,13 @@
+.boton-principal {
+    @extend %botones;
+    width: 100px;
+    font-size: 16px;
+    
+}
+
+.boton-secundario {
+    @extend %botones;
+    width: 40px;
+    font-size: 25px;
+    font-weight: bold;
+}
